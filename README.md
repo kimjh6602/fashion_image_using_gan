@@ -1,1 +1,1 @@
-# fashion_image_using_gan
+# GAN 모델을 이용한 의류 이미지 생성 및 가상 피팅 시스템
